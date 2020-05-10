@@ -124,5 +124,4 @@ public class SyntaxActivity extends AppCompatActivity implements
         highlightJsView.setTheme(theme);
         highlightJsView.refresh();
     }
-
 }
